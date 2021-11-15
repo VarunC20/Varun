@@ -1,27 +1,10 @@
-## Welcome to GitHub Pages
+## Hi! I am Varun Chavan
 
-You can use the [editor on GitHub](https://github.com/VarunC20/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Mechanical Engineer who is venturing in the field of robotics. Currently I am working as a Project Assistant at SysIDEA Robotics Lab in IIT Gandhinagar. [editor on GitHub](https://github.com/VarunC20/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+With the naïve aim of making space probes and satellites, I went for Engineering after 10th like others. At first, I was skeptical but as time passed, I started loving this field. I did my Diploma in Mechanical Engineering and then moved to Pune for my bachelors. Although not a robotics guy, I surely love building machines. I built an inexpensive semi-automated seed and fertilizer sowing bicycle for farmers and inspired by ISRO's Pragyan rover built a delivery robot named & 'ATAV'; as my final year project. This project led me to become more curious about Robotics and landed me here at SysIDEA Lab at IIT Gandhinagar. When free, you may find me making content for my YouTube channel named Explained [Don't forget to Subscribe:)] or watching Japanese language videos.
 
 [Link](url) and ![Image](src)
 ```
